@@ -1,16 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0077B5&height=200&section=header&text=Sama%20Ismael&fontSize=80&animation=fadeIn&fontAlignY=40" />
+  <img src="https://raw.githubusercontent.com/khalby71/capsule-render/master/api?type=waving&color=0077B5&height=200&section=header&text=Sama%20Ismael&fontSize=80&animation=fadeIn" />
 
   ## 🛡️ Information Engineering & Technology @GUC
   **Network Security | Automation | Hardware Engineering** 🇵🇸
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sama-ismael)
+  <a href="https://www.linkedin.com/in/sama-ismael">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </div>
 
 ---
 
 ### 📖 The Engineering Journey
-Engineering Professional at the **German University in Cairo (GUC)**. My journey is defined by technical excellence and a commitment to building secure, resilient systems. From the challenges of Gaza to the labs of GUC, I bridge the gap between hardware and software security.
+Engineering Student at the **German University in Cairo (GUC)**. My journey is defined by technical excellence and a commitment to building secure, resilient systems. From the challenges of Gaza to the labs of GUC, I bridge the gap between hardware and software security.
 
 ---
 
