@@ -34,11 +34,11 @@ Engineering Student at the **German University in Cairo (GUC)**. My journey is d
 ### 🚀 Engineering Skills & Learning Focus
 | Field | Status / Level |
 | :--- | :--- |
-| **Java Programming** | ![Progress](https://geps.dev/progress/70) |
-| **Problem Solving (DSA)** | ![Progress](https://geps.dev/progress/45) |
-| **Cybersecurity Basics** | ![Progress](https://geps.dev/progress/40) |
-| **Network Fundamentals** | ![Progress](https://geps.dev/progress/35) |
-| **Embedded Systems (Arduino)** | ![Progress](https://geps.dev/progress/30) |
+| **Java Programming** | ![Progress](https://geps.dev/progress/80) |
+| **Problem Solving (DSA)** | ![Progress](https://geps.dev/progress/65) |
+| **Cybersecurity Basics** | ![Progress](https://geps.dev/progress/30) |
+| **Network Fundamentals** | ![Progress](https://geps.dev/progress/30) |
+| **Embedded Systems (Arduino)** | ![Progress](https://geps.dev/progress/70) |
 
 ---
 ---
